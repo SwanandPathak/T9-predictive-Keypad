@@ -1,0 +1,24 @@
+﻿<Window x:Class="message.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="550" Width="525">
+    <Grid>
+        <Button x:Name="click" Content="2      abc" HorizontalAlignment="Left" Height="45" Margin="194,117,0,0" VerticalAlignment="Top" Width="109" Click="click_Click"/>
+        <TextBox x:Name="Scre" HorizontalAlignment="Left" Height="48" Margin="234,394,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="218"/>
+        <Button x:Name="back" Content="* &lt;" HorizontalAlignment="Left" VerticalAlignment="Top" Width="108" Margin="33,323,0,0" Click="back_Click" Height="45"/>
+        <Button x:Name="spaceahead" Content="#" HorizontalAlignment="Left" Height="45" Margin="364,323,0,0" VerticalAlignment="Top" Width="113" Click="spaceahead_Click"/>
+        <Button x:Name="two" Content="3   def" HorizontalAlignment="Left" Height="45" Margin="364,117,0,0" VerticalAlignment="Top" Width="113" Click="two_Click"/>
+        <Button x:Name="three" Content="4 ghi" HorizontalAlignment="Left" Height="40" Margin="32,185,0,0" VerticalAlignment="Top" Width="109" Click="three_Click"/>
+        <Button Content="5  jkl" HorizontalAlignment="Left" Height="40" Margin="194,185,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
+        <Button Content="6  mno" HorizontalAlignment="Left" Height="40" Margin="364,185,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click_1"/>
+        <Button x:Name="nine" Content="9 wxyz" HorizontalAlignment="Left" Height="45" Margin="364,251,0,0" VerticalAlignment="Top" Width="113" Click="nine_Click"/>
+        <Button Content="1" HorizontalAlignment="Left" Height="45" Margin="32,117,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click_2"/>
+        <Button Content="7 pqrs" HorizontalAlignment="Left" Height="45" Margin="32,251,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click_3"/>
+        <Button Content="8  tuv" HorizontalAlignment="Left" Height="45" Margin="195,251,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click_4"/>
+        <Button Content="0" HorizontalAlignment="Left" Height="45" Margin="195,323,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click_5"/>
+        <CheckBox x:Name="check1" Content="Check=non-predictive" HorizontalAlignment="Left" Height="30" Margin="58,412,0,0" VerticalAlignment="Top" Width="155" ClickMode="Press" IsChecked="True" />
+        <TextBox x:Name="textboxup" HorizontalAlignment="Left" Height="49" Margin="10,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" FontSize="10"/>
+        <Label Content="Predicted words" HorizontalAlignment="Left" Height="26" Margin="194,86,0,0" VerticalAlignment="Top" Width="118"/>
+
+    </Grid>
+</Window>

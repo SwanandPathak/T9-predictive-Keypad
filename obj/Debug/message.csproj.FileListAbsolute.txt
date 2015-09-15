@@ -1,0 +1,13 @@
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\bin\Debug\message.exe.config
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\bin\Debug\message.exe
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\bin\Debug\message.pdb
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.csprojResolveAssemblyReference.cache
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\MainWindow.baml
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\MainWindow.g.cs
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\App.g.cs
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message_MarkupCompile.cache
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.g.resources
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.Properties.Resources.resources
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.csproj.GenerateResource.Cache
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.exe
+C:\Users\Swanand\Documents\Visual Studio 2013\Projects\message\message\obj\Debug\message.pdb
